@@ -2,8 +2,7 @@
 
 Employee & Attendance Management System (Backend API)
 
-Live API:
-[https://hrms-lite-backend-czi9.onrender.com/](https://hrms-lite-backend-czi9.onrender.com/)
+Live API: https://attendance-system-backend.onrender.com
 
 ---
 
