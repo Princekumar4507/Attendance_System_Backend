@@ -50,7 +50,7 @@ hrms-lite-backend/
 ### 1. Clone repo
 
 
-git clone  https://github.com/Ashu-ux/hrms-lite-backend
+git clone  https://github.com/Princekumar4507/Attendance_System_Backend
 ---
 
 ### 2. Install dependencies
@@ -175,5 +175,5 @@ node_modules
 
 ## Author
 
-Ashutosh
+Prince
 Full-Stack Assignment Submission (HRMS Lite)
